@@ -1,6 +1,6 @@
-# AI - BCDS Deep Learning
+# Breast cancer detection using depp learning 
 
-This readme file contains project details and information about the team members involved in the AI - BCDS Deep Learning project.
+This readme file contains project details and information about the team members involved in the Breast cancer detection using deep learning project.
 
 Project can be accessed by using this link --- (https://github.com/Nithin043/Breast-cancer-detection-using-deep-learning-) 
 
